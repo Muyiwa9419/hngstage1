@@ -1,13 +1,14 @@
 {
   "name": "hngstage1",
   "version": "1.0.0",
-  "description": "",
+  "description": "weather app",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start":  "echo 'No build step needed'"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muyiwa",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.2",
